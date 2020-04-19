@@ -1,0 +1,8 @@
+2020-04-03 08:45:27.111  INFO 6980 --- [restartedMain] com.princeoo.blog.BlogApplication        : Starting BlogApplication on PrinceoodeMacBook-Pro.local with PID 6980 (/Library/项目/blog/target/classes started by princegg in /Library/项目/blog)
+2020-04-03 08:45:27.179  INFO 6980 --- [restartedMain] com.princeoo.blog.BlogApplication        : The following profiles are active: pro
+2020-04-03 08:45:33.906  WARN 6980 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-04-03 08:45:34.733  INFO 6980 --- [restartedMain] com.princeoo.blog.BlogApplication        : Started BlogApplication in 9.199 seconds (JVM running for 11.456)
+2020-04-03 09:07:48.239  INFO 7005 --- [restartedMain] com.princeoo.blog.BlogApplication        : Starting BlogApplication on PrinceoodeMacBook-Pro.local with PID 7005 (/Library/项目/blog/target/classes started by princegg in /Library/项目/blog)
+2020-04-03 09:07:48.242  INFO 7005 --- [restartedMain] com.princeoo.blog.BlogApplication        : The following profiles are active: pro
+2020-04-03 09:07:51.554  WARN 7005 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-04-03 09:07:52.002  INFO 7005 --- [restartedMain] com.princeoo.blog.BlogApplication        : Started BlogApplication in 5.708 seconds (JVM running for 7.68)
